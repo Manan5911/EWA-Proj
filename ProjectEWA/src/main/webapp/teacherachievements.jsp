@@ -31,6 +31,9 @@
     <div class="form-div animated flip">
     <h3><a href="viewtachievements.jsp"><font color="black">View Teacher Achievements </font></a></h3>
     </div>
+        <div class="form-div animated flip">
+    <h3><a href="deletetachievements.jsp"><font color="black">Delete Teacher Achievements </font></a></h3>
+    </div>
     <br/><br/><br/><br/><br/><br/><br/><br/><br/>
     
 </body>

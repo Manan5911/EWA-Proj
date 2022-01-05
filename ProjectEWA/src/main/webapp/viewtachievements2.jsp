@@ -70,7 +70,7 @@
     <form action="teventupdateact.jsp" method="post">
     <tr>
     <td width="126" rowspan="14"><div class="style7" style="margin:10px 13px 10px 13px;" >
-    <img height="200" width="120" src="Gallery\<%=image%>"></img></div></td>
+    <img height="200" width="120" src="Gallery/user.png"></img></div></td>
     </tr>
 
     <tr>

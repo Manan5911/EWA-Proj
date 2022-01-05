@@ -30,6 +30,9 @@
     <div class="form-div animated flip">
     <h3><a href="viewsachievements.jsp"><font color="black">View Student Achievements </font></a></h3>
     </div>
+    <div class="form-div animated flip">
+    <h3><a href="deletesachievements.jsp"><font color="black">Delete Student Achievements </font></a></h3>
+    </div>
     <br/><br/><br/><br/><br/><br/><br/><br/><br/>
     
 </body>
